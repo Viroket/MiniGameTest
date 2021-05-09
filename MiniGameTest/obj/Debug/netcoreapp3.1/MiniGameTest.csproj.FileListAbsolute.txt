@@ -1,0 +1,16 @@
+C:\Users\Tal\source\repos\MiniGameTest\MiniGameTest\bin\Debug\netcoreapp3.1\MiniGameTest.exe
+C:\Users\Tal\source\repos\MiniGameTest\MiniGameTest\bin\Debug\netcoreapp3.1\MiniGameTest.deps.json
+C:\Users\Tal\source\repos\MiniGameTest\MiniGameTest\bin\Debug\netcoreapp3.1\MiniGameTest.runtimeconfig.json
+C:\Users\Tal\source\repos\MiniGameTest\MiniGameTest\bin\Debug\netcoreapp3.1\MiniGameTest.runtimeconfig.dev.json
+C:\Users\Tal\source\repos\MiniGameTest\MiniGameTest\bin\Debug\netcoreapp3.1\MiniGameTest.dll
+C:\Users\Tal\source\repos\MiniGameTest\MiniGameTest\bin\Debug\netcoreapp3.1\MiniGameTest.pdb
+C:\Users\Tal\source\repos\MiniGameTest\MiniGameTest\obj\Debug\netcoreapp3.1\MiniGameTest.Form1.resources
+C:\Users\Tal\source\repos\MiniGameTest\MiniGameTest\obj\Debug\netcoreapp3.1\MiniGameTest.csproj.GenerateResource.cache
+C:\Users\Tal\source\repos\MiniGameTest\MiniGameTest\obj\Debug\netcoreapp3.1\MiniGameTest.AssemblyInfoInputs.cache
+C:\Users\Tal\source\repos\MiniGameTest\MiniGameTest\obj\Debug\netcoreapp3.1\MiniGameTest.AssemblyInfo.cs
+C:\Users\Tal\source\repos\MiniGameTest\MiniGameTest\obj\Debug\netcoreapp3.1\MiniGameTest.csproj.CoreCompileInputs.cache
+C:\Users\Tal\source\repos\MiniGameTest\MiniGameTest\obj\Debug\netcoreapp3.1\MiniGameTest.dll
+C:\Users\Tal\source\repos\MiniGameTest\MiniGameTest\obj\Debug\netcoreapp3.1\MiniGameTest.pdb
+C:\Users\Tal\source\repos\MiniGameTest\MiniGameTest\obj\Debug\netcoreapp3.1\MiniGameTest.genruntimeconfig.cache
+C:\Users\Tal\source\repos\MiniGameTest\MiniGameTest\obj\Debug\netcoreapp3.1\MiniGameTest.Properties.Resources.resources
+C:\Users\Tal\source\repos\MiniGameTest\MiniGameTest\obj\Debug\netcoreapp3.1\MiniGameTest.option_page.resources
